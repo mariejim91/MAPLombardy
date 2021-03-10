@@ -1,2 +1,3 @@
 # MAPLombardy
-Request of COSMO-SkyMed data products tailored to users needs to monitor water patterns and supporting emergency management services
+Request of COSMO-SkyMed data
+This repository includes images that could not be attached within the project card.
